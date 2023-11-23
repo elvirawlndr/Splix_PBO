@@ -1,15 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package SPLIX;
+
 import java.util.ArrayList;
 
-/**
- *
- * @author Elvira Wulandari
- */
 public class Playlist extends Musik {
     private int ID_Playlist;
     private int ID_User;
